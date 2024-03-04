@@ -1,1 +1,2 @@
 # django-news
+# django-news
